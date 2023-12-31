@@ -4,7 +4,7 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/HackEzra/Hospital-Management/blob/master/templates/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/HackEzra/Hospital-Management/blob/master/templates/screenshots/homepage.png)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/HackEzra/Hospital-Management/blob/master/templates/screenshots/admin_dashboard.png?raw=true)
 ### Doctor Signup
