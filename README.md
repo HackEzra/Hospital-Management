@@ -13,7 +13,7 @@ This is a custom push changes to:
 ### Doctor Signup
 ![doctor snap](https://github.com/HackEzra/Hospital-Management/blob/master/templates/screenshots/doctor_signup.png?raw=true)
 ### Patient Signup
-![patient_snap](https://github.com/HackEzra/Hospital-Management/blob/master/templates/screenshots/patient_signup.png?raw=true)
+![patient_snap](https://github.com/HackEzra/Hospital-Management/templates/screenshots/patient_signup.png?raw=true)
 ---
 ## Functions
 ### Admin
