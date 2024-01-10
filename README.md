@@ -4,7 +4,7 @@
 ---
 ## Credits
 This is a custom push changes to:
-![credits]```(https://github.com/sumitkumar1503/hospitalmanagement)```
+```(https://github.com/sumitkumar1503/hospitalmanagement)```
 ## screenshots
 ### Homepage
 ![homepage snap](templates/screenshots/homepage.png)
