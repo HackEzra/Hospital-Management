@@ -4,16 +4,16 @@
 ---
 ## Credits
 This is a custom push changes to:
-![credits](https://github.com/sumitkumar1503/hospitalmanagement)
+![credits]```(https://github.com/sumitkumar1503/hospitalmanagement)```
 ## screenshots
 ### Homepage
 ![homepage snap](templates/screenshots/homepage.png)
 ### Admin Dashboard
-![dashboard snap](https://github.com/HackEzra/Hospital-Management/blob/master/templates/screenshots/admin_dashboard.png?raw=true)
+![dashboard snap](templates/screenshots/admin_dashboard.png)
 ### Doctor Signup
-![doctor snap](https://github.com/HackEzra/Hospital-Management/blob/master/templates/screenshots/doctor_signup.png?raw=true)
+![doctor snap](templates/screenshots/doctor_signup.png)
 ### Patient Signup
-![patient_snap](https://github.com/HackEzra/Hospital-Management/templates/screenshots/patient_signup.png?raw=true)
+![patient_snap](templates/screenshots/patient_signup.png)
 ---
 ## Functions
 ### Admin
