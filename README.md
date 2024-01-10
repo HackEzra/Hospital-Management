@@ -7,7 +7,7 @@ This is a custom push changes to:
 ![credits](https://github.com/sumitkumar1503/hospitalmanagement)
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/HackEzra/Hospital-Management/templates/screenshots/homepage.png?raw=true)
+![homepage snap](templates/screenshots/homepage.png)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/HackEzra/Hospital-Management/blob/master/templates/screenshots/admin_dashboard.png?raw=true)
 ### Doctor Signup
